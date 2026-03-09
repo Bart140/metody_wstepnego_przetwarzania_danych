@@ -1,1 +1,2 @@
 # metody_wstepnego_przetwarzania_danych
+181533 - Bartłomiej Chmielewski
