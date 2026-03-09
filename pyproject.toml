@@ -1,0 +1,13 @@
+[project]
+name = "metody-wstepnego-przetwarzania-danych"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.13"
+dependencies = [
+    "clipboard>=0.0.4",
+    "jupyterlab>=4.5.5",
+    "numpy>=2.4.2",
+    "pandas>=3.0.1",
+    "polar>=0.0.127",
+    "pyarrow>=23.0.1",
+]
