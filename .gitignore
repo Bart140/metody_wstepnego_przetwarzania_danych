@@ -4,3 +4,4 @@ uv.lock
 */.ipynb_checkpoints/*
 data
 */data_split/*
+/*.csv
