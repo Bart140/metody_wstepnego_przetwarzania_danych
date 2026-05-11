@@ -13,5 +13,6 @@ dependencies = [
     "pandas>=3.0.1",
     "polar>=0.0.127",
     "pyarrow>=23.0.1",
+    "scikit-image[data]>=0.26.0",
     "seaborn>=0.13.2",
 ]
