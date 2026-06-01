@@ -6,13 +6,16 @@ requires-python = ">=3.13"
 dependencies = [
     "category-encoders>=2.9.0",
     "clipboard>=0.0.4",
+    "emoji>=2.15.0",
     "fastparquet>=2026.3.0",
     "filesplit>=4.1.0",
     "jupyterlab>=4.5.5",
+    "nltk>=3.9.3",
     "numpy>=2.4.2",
     "pandas>=3.0.1",
     "polar>=0.0.127",
     "pyarrow>=23.0.1",
     "scikit-image[data]>=0.26.0",
     "seaborn>=0.13.2",
+    "spacy>=3.8.14",
 ]
